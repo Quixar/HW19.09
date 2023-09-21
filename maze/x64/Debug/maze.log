@@ -1,0 +1,4 @@
+﻿  maze.cpp
+C:\Users\Quixar\source\repos\maze\maze.cpp(28,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Quixar\source\repos\maze\maze.cpp(116,24): warning C4566: character represented by universal-character-name '\u263A' cannot be represented in the current code page (1252)
+C:\Users\Quixar\source\repos\maze\maze.cpp(137): error C4700: uninitialized local variable 'position' used
